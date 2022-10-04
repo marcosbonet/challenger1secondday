@@ -1,0 +1,18 @@
+{
+  "name": "day-two",
+  "version": "1.0.0",
+  "description": "chellernger 1 second day",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "123456"
+  ],
+  "author": "marcos bonet",
+  "license": "ISC",
+  "prettier":{"singleQuote": true
+    
+  }
+}
+
